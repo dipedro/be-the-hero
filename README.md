@@ -9,7 +9,7 @@
   App para ajudar ONGs feito com ReactJS, React Native, Node.js e mais. 
 </p>
 
-<img src=".github/banner.png" />
+<img src="https://github.com/dipedro/be-the-hero/blob/master/mobile/assets/splash.png" />
 
 <p align="center">
   O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
