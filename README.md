@@ -3,14 +3,14 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
+
  
 <p align="center">
   App para ajudar ONGs feito com ReactJS, React Native, Node.js e mais. 
 </p>
-
-<img src="https://github.com/dipedro/be-the-hero/blob/master/mobile/assets/splash.png" />
-
+<p align="center">
+  <img src="https://github.com/dipedro/be-the-hero/blob/master/mobile/assets/splash.png" width="300" />
+</p>
 <p align="center">
   O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 </p>
